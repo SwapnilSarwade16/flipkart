@@ -265,9 +265,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Authors
-
-* **Arnav Anand** - *FY at VIT Pune* - [Arnav Anand](https://github.com/ArnavAnand10) - **
 
 
 
